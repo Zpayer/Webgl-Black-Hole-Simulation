@@ -138,6 +138,9 @@ async function main() {
     }
 
 
+    //const fragmentShaderSource = await GET("/shader.frag");
+    //const vertexShaderSource = await GET("/shader.vert")
+
     const fragmentShaderSource = `
     precision highp float;
 
@@ -452,3 +455,4 @@ void main() {
 }
 
 main();
+
