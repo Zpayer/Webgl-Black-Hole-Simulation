@@ -1,0 +1,59 @@
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: #000;
+            font-family: 'Courier New', monospace;
+        }
+
+        canvas {
+            display: block;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        #controls {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            color: #fff;
+            background: rgb(81 81 81 / 70%);
+            padding: 15px;
+            border-radius: 5px;
+            font-size: 12px;
+            user-select: none;
+            backdrop-filter: blur(4px);
+        }
+
+        #controls h3 {
+            margin: 0 0 10px 0;
+            color: #4af;
+        }
+
+        .control {
+            margin: 8px 0;
+            display: flex;
+            align-items: center;
+        }
+
+        label {
+            display: inline-block;
+            width: 140px;
+        }
+
+        input[type="range"] {
+            width: 120px;
+            vertical-align: middle;
+        }
+
+        input[type="color"] {
+            background: transparent;
+            border: 1px solid #ffffff7d;
+            border-radius: 6px;
+        }
+
+        .value {
+            display: inline-block;
+            width: 40px;
+            text-align: right;
+            color: #4af;
+        }
