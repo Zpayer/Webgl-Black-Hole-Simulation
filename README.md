@@ -13,7 +13,6 @@ A real-time WebGL simulation of a black hole.
 ## Features
 - Draws black hole’s event horizon as a circle.
 - Computes Schwarzschild radius: `r_s = 2 G M / c²`.
-- WebGL2 rendering for fast performance.
 - Easy to extend with rays, disks, or animations.
 
 ---
@@ -25,3 +24,4 @@ This project was made with help and inspiration from:
 - **[Claude.ai](https://www.claude.ai/)** – guidance and coding help  
 - **ChatGPT** – code suggestions and explanations  
 - YouTube tutorial: [WebGL Black Hole Simulation](https://youtu.be/8-B6ryuBkCM)
+
