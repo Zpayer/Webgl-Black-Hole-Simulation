@@ -6,7 +6,7 @@ A real-time WebGL simulation of a black hole.
 
 ## Demo
 ![Black Hole Preview](https://raw.githubusercontent.com/RandomUser15456/Webgl-Black-Hole-Simulation/main/preview.png)  
-[Live Demo](https://randomuser15456.github.io/Webgl-Black-Hole-Simulation/)
+[Live Demo](https://zpayer.github.io/Webgl-Black-Hole-Simulation/)
 
 ---
 
@@ -24,4 +24,5 @@ This project was made with help and inspiration from:
 - **[Claude.ai](https://www.claude.ai/)** – guidance and coding help  
 - **ChatGPT** – code suggestions and explanations  
 - YouTube tutorial: [WebGL Black Hole Simulation](https://youtu.be/8-B6ryuBkCM)
+
 
